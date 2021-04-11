@@ -1,0 +1,60 @@
+
+  body{
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #fcfffc !important;
+    background-color: #040f0f !important;
+  }
+  h2,h3{
+    color: #fcfffc !important; 
+  }
+  .jumbotron {
+    background-color: #040f0f !important;
+    color: #fff !important;
+    padding: 200px 50px;
+    font-family: Montserrat, sans-serif;
+  }
+  .container-fluid {
+    padding: 60px 50px;
+  }
+  
+  .navbar {
+    margin-bottom: 0;
+    background-color: #248232 !important;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+  }
+  .navbar li a, .navbar .navbar-brand {
+    color: #fcfffc !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #2ba84a !important;
+    background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent !important;
+    color: #fcfffc !important;
+  }
+  table {
+    color:white !important;
+    font-family: Montserrat, sans-serif;
+      font-size: 20px !important;
+      line-height: 1.42857143 !important;
+      border-radius: 0;
+      background-color: #040f0f;
+    border-collapse:collapse;
+    border:solid black 1px;
+    }
+    
+tr:hover {background-color:#2d3a3a!important;}
+
+
+
+
+  
+  
